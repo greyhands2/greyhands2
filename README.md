@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Osagie Osemwota Anthony
-- 👀 I’m interested in REST and Graphql backend development with nodejs, typescript, golang
-- 🌱 I’m currently relearning C++
+- 👀 I’m into REST and Graphql backend development with nodejs, typescript, golang
+- 🌱 I’m currently relearning C++ and Rust soon
 - 💞️ I’m looking to collaborate on paid remote jobs
 - 📫 How to reach me osagiet1@outlook.com
 
