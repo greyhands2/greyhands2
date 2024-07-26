@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Osagie Osemwota Anthony
 - 👀 I’m into REST and Graphql backend development with Java, Golang, NodeJS, Typescript
+- 🥷🏿 I'm a Python Machine Learning and also a Lua/Love2D game development enthusiast
 - 🌱 I’m currently relearning C++ and Rust soon
 - 💞️ I’m looking to collaborate on paid remote jobs
 - 📫 How to reach me osagiet1@outlook.com
